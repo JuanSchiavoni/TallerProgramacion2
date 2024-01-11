@@ -1,0 +1,6 @@
+Juan - Schiavoni - 24 - M - 12 - A
+Pedro - Picapedra - 10 - M - 32 - B
+Mirta - Legrand - 94 - F - 3 - C
+Carla - Gomez - 36 - F - 40 - A
+
+
